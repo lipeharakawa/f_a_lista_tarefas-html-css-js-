@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Lista de Tarefas é uma página web que cadastra, exclui e salva informações no navegador local, podendo ser feito uma lista não ordenada de itens salvo e acessado no mesmo navegador a qualquer momento.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/f_a_lista_tarefas-html-css-js-)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/f_a_lista_tarefas-html-css-js)
 
 ## ✅ Licença
 
