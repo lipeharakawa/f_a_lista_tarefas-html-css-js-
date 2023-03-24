@@ -14,7 +14,7 @@ function renderTarefas(){
         let linkElement = document.createElement("a");
         linkElement.setAttribute("href", "#");
 
-        let linkText = document.createTextNode("Excluir");
+        let linkText = document.createTextNode(" Excluir");
         linkElement.appendChild(linkText);
 
         let posicao = tarefas.indexOf(todo);

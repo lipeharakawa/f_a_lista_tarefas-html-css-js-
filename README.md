@@ -1,4 +1,4 @@
-<h1 align="center"> Lista de Tarefas </h1>
+<h1 align="center">Lista de Compras</h1>
 
 <p align="center">
 Programa desenvolvido durante os estudos do curso Fabrica de Aplicativos - Sujeito Programador.<br/>
@@ -17,7 +17,7 @@ Programa desenvolvido durante os estudos do curso Fabrica de Aplicativos - Sujei
 <br>
 
 <p align="center">
-  <img alt="Foto projeto Lista de Tarefas" src=".github/preview.jpg" width="100%">
+  <img alt="Foto projeto Lista de Compras" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,9 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Lista de Tarefas é uma página web que cadastra, exclui e salva informações no navegador local, podendo ser feito uma lista não ordenada de itens salvo e acessado no mesmo navegador a qualquer momento.
+O projeto Lista de Compras é uma página web que cadastra, exclui e salva informações no navegador local, podendo ser feito uma lista não ordenada de itens salvo e acessado no mesmo navegador a qualquer momento.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/f_a_lista_tarefas-html-css-js)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/lista-compras)
 
 ## ✅ Licença
 
@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Felipe Seidi Harakawa, durante o curso Fabrica de Aplicativos - Sujeito Programador. [ Visite o site! ](https://sujeitoprogramador.com/fabricadeaplicativos)
+Feito com ❤️ por Felipe Seidi Harakawa, durante o curso Fabrica de Aplicativos - Sujeito Programador. [ Visite o site! ](https://sujeitoprogramador.com/fabricadeaplicativos)

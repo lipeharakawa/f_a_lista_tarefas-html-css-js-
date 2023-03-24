@@ -1,38 +1,49 @@
-body {
-  /*Alinha os elementos da página ao centro*/
-  font-family: "Roboto Mono", monospace;
-  text-align: left;
-  background-color: #fac959;
-  /*Fixa o plano de fundo na página preenchendo-o por um todo*/
-  background-size: cover;
-  background-position: center top;
-  background-repeat: no-repeat;
-  height: 100vh;
-  color: #ffffff;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-h2 {
-  color: #ffffff;
-  margin: 0 0 5px;
-  font-size: 40px;
-  padding: 10px 0px;
+*{
+  box-sizing: border-box;
 }
 
-button {
-  border: 0;
+body{
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+h2{
+  padding: 10px;
+}
+
+input{
+  display: block;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+ul{
+  list-style:none;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+button{
+  background: red;
   color: #ffffff;
-  background: #ff6051;
-  font-weight: bold;
-  padding: 10px 0px;
   font-size: 16px;
-  border-radius: 4px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: 0;
+  padding: 10px;
   margin-top: 20px;
   cursor: pointer;
   transition: 0.3s;
-}
-
-input {
-  display: block;
-  padding: 10px 0px;
-  color: black;
 }
